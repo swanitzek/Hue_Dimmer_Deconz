@@ -29,6 +29,8 @@ dimmer_bedroom:
     switch: dimmer_switch_bedroom
     light: light.bedroom
 ```
+Add this configuration to your AppDaemon configuration file, e.g. `/config/appdaemon/apps/apps.yaml`.
+
 #### Configuration
 key | optional | type | default | description
 -- | -- | -- | -- | --
